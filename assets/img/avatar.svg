@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait placeholder</title>
+  <desc id="desc">A neutral circular academic profile placeholder.</desc>
+  <rect width="420" height="420" fill="#f7f8f9"/>
+  <circle cx="210" cy="154" r="76" fill="#d9dde3"/>
+  <path d="M82 372c18-86 71-130 128-130s110 44 128 130" fill="#c5ccd4"/>
+  <circle cx="210" cy="210" r="204" fill="none" stroke="#b8c1ca" stroke-width="12"/>
+  <text x="210" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#5f6670">Your Photo</text>
+</svg>
